@@ -82,4 +82,38 @@ Created on Fri Oct  2 20:47:12 2020
 # IsUnique(1,2,3,4,5,6,6)
 
 
+# 1.6
+
+
+# import time
+
+# print('\ntime.time():',time.time())
+
+# seconds = time.time()
+# minutes = seconds/60
+# hours = minutes/60
+# days = hours/24
+    
+# print("\nдни : {0}  часы : {1}  минуты : {2}  секунды: {3}".
+#       format(round(days), round(hours), round(minutes), round(seconds)))
+
+
+# 1.7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
