@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Супермаркет -->
+<store>
+    <!-- Одежда -->
+    <department name_eng = "Clothing" name_rus = "Одежда">
+        <product id = "1" name_eng = "Shirt" name_rus = "Рубашка" />
+        <product id = "2" name_eng = "Pants" name_rus = "Брюки" />
+        <product id = "3" name_eng = "Dress" name_rus = "Платье" />
+    </department>
+    <!-- Обувь -->
+    <department name_eng = "Shoes" name_rus = "Обувь">
+        <product id = "4" name_eng = "Sneakers" name_rus = "Кеды" />
+        <product id = "5" name_eng = "Womens_shoes" name_rus = "Туфли" />
+        <product id = "6" name_eng = "Ankle_boots" name_rus = "Берцы" />
+    </department>
+	<!-- Мясные продукты -->
+    <department name_eng = "Meat_products" name_rus = "Мясные продукты">
+        <product id = "7" name_eng = "Boiled_sausage" name_rus = "Колбаса вареная" />
+        <product id = "8" name_eng = "Sausages" name_rus = "Сосиски и сардельки" />
+        <product id = "9" name_eng = "Ham" name_rus = "Ветчина" />
+    </department>
+	<!-- Овощи -->
+    <department name_eng = "Vegetables" name_rus = "Овощи">
+        <product id = "10" name_eng = "Leek" name_rus = "Лук порей" />
+        <product id = "11" name_eng = "Potatoes" name_rus = "Картофель" />
+        <product id = "12" name_eng = "Carrot" name_rus = "Морковь" />
+    </department>
+	<!-- Фрукты -->
+    <department name_eng = "Fruits" name_rus = "Фрукты">
+        <product id = "13" name_eng = "Bananas" name_rus = "Бананы" />
+        <product id = "14" name_eng = "Apples" name_rus = "Яблоки" />
+        <product id = "15" name_eng = "Kiwi" name_rus = "Киви" />
+    </department>
+	<!-- Молочные продукты -->
+    <department name_eng = "Dairy" name_rus = "Молочные продукты">
+        <product id = "16" name_eng = "Milk" name_rus = "Молоко" />
+        <product id = "17" name_eng = "Cheese" name_rus = "Сыр" />
+        <product id = "18" name_eng = "Butter" name_rus = "сливочное масло" />
+    </department>
+	<!-- Шоколад -->
+    <department name_eng = "Chocolate" name_rus = "Шоколад">
+        <product id = "19" name_eng = "Alpen_gold" name_rus = "Альпен гольд" />
+        <product id = "20" name_eng = "Milka" name_rus = "Милка" />
+        <product id = "21" name_eng = "Snickers" name_rus = "Сникерс" />
+    </department>
+	<!-- Алкогольные напитки -->
+    <department name_eng = "Alcohol" name_rus = "Алкогольные напитки">
+        <product id = "22" name_eng = "Whiskey" name_rus = "Виски" />
+        <product id = "23" name_eng = "Martini" name_rus = "Мартини" />
+        <product id = "24" name_eng = "Brandy" name_rus = "Бренди" />
+    </department>
+	<!-- Оружие -->
+    <department name_eng = "Weapons" name_rus = "Оружие">
+        <product id = "25" name_eng = "Colt_1911" name_rus = "Кольт 1911" />
+        <product id = "26" name_eng = "AK-47" name_rus = "АК-47" />
+        <product id = "27" name_eng = "M4A1" name_rus = "М4А1" />
+    </department>
+	<!-- Машины -->
+    <department name_eng = "Cars" name_rus = "Машины">
+        <product id = "28" name_eng = "Aston_Martin" name_rus = "Астон Мартин" />
+        <product id = "29" name_eng = "Bentley" name_rus = "Бентли" />
+        <product id = "30" name_eng = "Tesla" name_rus = "Тесла" />
+    </department>
+</store>
