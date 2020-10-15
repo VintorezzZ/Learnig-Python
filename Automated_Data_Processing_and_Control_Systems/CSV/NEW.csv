@@ -1,0 +1,37 @@
+ID_product,ID_department,Department_eng,Department_rus,Product_eng,Product_rus
+1,4,Clothing,Одежда,Shirt,Рубашка
+2,4,Clothing,Одежда,Pants,Брюки
+3,4,Clothing,Одежда,Dress,Платье
+4,4,Clothing,Одежда,Hat,Шляпа
+5,8,Shoes,Обувь,Sneakers,Кеды
+6,8,Shoes,Обувь,Womens_shoes,Туфли
+7,8,Shoes,Обувь,Ankle_boots,Берцы
+8,7,Meat_products,Мясные продукты,Boiled_sausage,Колбаса вареная
+9,7,Meat_products,Мясные продукты,Sausages,Сосиски и сардельки
+10,7,Meat_products,Мясные продукты,Ham,Ветчина
+11,7,Meat_products,Мясные продукты,Meat,Мясо
+12,9,Vegetables,Овощи,Leek,Лук порей
+13,9,Vegetables,Овощи,Potatoes,Картофель
+14,9,Vegetables,Овощи,Carrot,Морковь
+15,9,Vegetables,Овощи,Tomato,Помидор
+16,6,Fruits,Фрукты,Bananas,Бананы
+17,6,Fruits,Фрукты,Apples,Яблоки
+18,6,Fruits,Фрукты,Kiwi,Киви
+19,6,Fruits,Фрукты,Pineapple,Ананас
+20,6,Fruits,Фрукты,Orange,Апельсин
+21,5,Dairy,Молочные продукты,Milk,Молоко
+22,5,Dairy,Молочные продукты,Cheese,Сыр
+23,5,Dairy,Молочные продукты,Butter,сливочное масло
+24,3,Chocolate,Шоколад,Alpen_gold,Альпен гольд
+25,3,Chocolate,Шоколад,Milka,Милка
+26,3,Chocolate,Шоколад,Snickers,Сникерс
+27,1,Alcohol,Алкогольные напитки,Whiskey,Виски
+28,1,Alcohol,Алкогольные напитки,Martini,Мартини
+29,1,Alcohol,Алкогольные напитки,Brandy,Бренди
+30,10,Weapons,Оружие,Colt_1911,Кольт 1911
+31,10,Weapons,Оружие,AK-47,АК-47
+32,10,Weapons,Оружие,M4A1,М4А1
+33,10,Weapons,Оружие,PRG-7,РПГ-7
+34,2,Cars,Машины,Aston_Martin,Астон Мартин
+35,2,Cars,Машины,Bentley,Бентли
+36,2,Cars,Машины,Tesla,Тесла
