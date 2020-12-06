@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Супермаркет -->
 <store>
-<!-- Самолёты --> 
-<department name_eng = "Planes" name_rus = "Самолёты"> 
-<product id = "1" name_eng = "Fighters" name_rus = "Истребители" /> 
-<product id = "2" name eng = "Bombers" name_rus = "Бомбардировщики" /> 
-<product id = "3" name eng = "Interceptors" name rus = "Перехватчики" /> 
-<product id = "4" name_eng = "Reconnaissance_aircraft" name_rus = "Самолёт разведчик" /> 
-</department>
-<!-- Корабли --> 
-<department name_eng = "Ships" name_rus = "Корабли"> 
-<product id = "5" name_eng = "U-boat" name_rus = "Подлодка" /> 
-<product id = "6" name eng = "Dreadnought" name_rus = "Дредноут" /> 
-<product id = "7" name eng = "Destroyer" name rus = "Эсминец" /> 
-<product id = "8" name_eng = "Battleship" name_rus = "Линкор" /> 
-</department>
-<!-- Техника --> 
-<department name_eng = "Vehicle" name_rus = "Техника"> 
-<product id = "9" name_eng = "Tank" name_rus = "Танк" /> 
-<product id = "10" name eng = "SPAA" name_rus = "ЗСУ" /> 
-<product id = "11" name_eng = "Self_propelled_gun" name_rus = "Артиллерия" /> 
-</department>
-<!-- Одежда --> 
-<department name_eng = "Clothing" name_rus = "Одежда"> 
-<product id = "12" name_eng = "Shirt" name_rus = "Рубашка" /> 
-<product id = "13" name eng = "Pants" name_rus = "Брюки" /> 
-<product id = "14" name eng = "Dress" name rus = "Платье" /> 
-<product id = "15" name_eng = "Hat" name_rus = "Шляпа" /> 
-</department>
-<!-- Коктейли --> 
-<department name_eng = "Coctails" name_rus = "Коктейли"> 
-<product id = "16" name_eng = "Bloody_mary" name_rus = "Кровавая Мэри" /> 
-<product id = "17" name eng = "Pina_colada" name_rus = "Пина колада" /> 
-<product id = "18" name eng = "Long_Island" name rus = "Лонг-Айленд" /> 
-<product id = "19" name_eng = "Mojito" name_rus = "Мохито" /> 
-</department>
-<!-- Питомцы --> 
-<department name_eng = "Pets" name_rus = "Питомцы"> 
-<product id = "20" name_eng = "Cats" name_rus = Коты" /> 
-<product id = "21" name eng = "Dogs" name_rus = "Собаки" /> 
-<product id = "22" name eng = "Parrots" name rus = "Попугаи" /> 
-</department>
-<!-- Книги --> 
-<department name_eng = "Books" name_rus = "Книги"> 
-<product id = "23" name_eng = "Remark" name_rus = "Ремарк" /> 
-<product id = "24" name eng = "Vonnegut" name_rus = "Воннегут" /> 
-<product id = "25" name eng = "Dostoevsky" name rus = "Достоевский" /> 
-</department>
-<!-- Телефоны --> 
-<department name_eng = "Phones" name_rus = "Телефоны"> 
-<product id = "26" name eng = "Samsung" name_rus = "Самсунг" /> 
-<product id = "27" name eng = "Xiaomi" name rus = "Ксяоми" /> 
-<product id = "28" name_eng = "Oppo" name_rus = "Оппо" /> 
-</department>
-<!-- Рыба --> 
-<department name_eng = "Fish" name_rus = "Рыба"> 
-<product id = "29" name_eng = "Salmon" name_rus = "Лосось" /> 
-<product id = "30" name eng = "Herring" name_rus = "Сельдь" /> 
-<product id = "31" name eng = "Trout" name rus = "Форель" /> 
-<product id = "32" name_eng = "Pike" name_rus = "Щука" /> 
-</department>
-<!-- Фрукты --> 
-<department name_eng = "Fruits" name_rus = "Фрукты"> 
-<product id = "33" name_eng = "Peach" name_rus = "Персик" /> 
-<product id = "34" name eng = "Apple" name_rus = "Яблоко" /> 
-<product id = "35" name eng = "Melon" name rus = "Дыня" /> 
-<product id = "36" name eng = "Banana" name rus = "Банан" />
-</department>
+	<!-- Самолёты --> 
+	<department name_eng = "Planes" name_rus = "Самолёты"> 
+		<product id = "1" name_eng = "Fighters" name_rus = "Истребители" /> 
+		<product id = "2" name eng = "Bombers" name_rus = "Бомбардировщики" /> 
+		<product id = "3" name eng = "Interceptors" name rus = "Перехватчики" /> 
+		<product id = "4" name_eng = "Reconnaissance_aircraft" name_rus = "Самолёт разведчик" /> 
+	</department>
+	<!-- Корабли --> 
+	<department name_eng = "Ships" name_rus = "Корабли"> 
+		<product id = "6" name eng = "Dreadnought" name_rus = "Дредноут" /> 
+		<product id = "5" name_eng = "U-boat" name_rus = "Подлодка" /> 
+		<product id = "7" name eng = "Destroyer" name rus = "Эсминец" /> 
+		<product id = "8" name_eng = "Battleship" name_rus = "Линкор" /> 
+	</department>
+	<!-- Техника --> 
+	<department name_eng = "Vehicle" name_rus = "Техника"> 
+		<product id = "9" name_eng = "Tank" name_rus = "Танк" /> 
+		<product id = "10" name eng = "SPAA" name_rus = "ЗСУ" /> 
+		<product id = "11" name_eng = "Self_propelled_gun" name_rus = "Артиллерия" /> 
+	</department>
+	<!-- Одежда --> 
+	<department name_eng = "Clothing" name_rus = "Одежда"> 
+		<product id = "12" name_eng = "Shirt" name_rus = "Рубашка" /> 
+		<product id = "13" name eng = "Pants" name_rus = "Брюки" /> 
+		<product id = "14" name eng = "Dress" name rus = "Платье" /> 
+		<product id = "15" name_eng = "Hat" name_rus = "Шляпа" /> 
+	</department>
+	<!-- Коктейли --> 
+	<department name_eng = "Coctails" name_rus = "Коктейли"> 
+		<product id = "16" name_eng = "Bloody_mary" name_rus = "Кровавая Мэри" /> 
+		<product id = "17" name eng = "Pina_colada" name_rus = "Пина колада" /> 
+		<product id = "18" name eng = "Long_Island" name rus = "Лонг-Айленд" /> 
+		<product id = "19" name_eng = "Mojito" name_rus = "Мохито" /> 
+	</department>
+	<!-- Питомцы --> 
+	<department name_eng = "Pets" name_rus = "Питомцы"> 
+		<product id = "20" name_eng = "Cats" name_rus = Коты" /> 
+		<product id = "21" name eng = "Dogs" name_rus = "Собаки" /> 
+		<product id = "22" name eng = "Parrots" name rus = "Попугаи" /> 
+	</department>
+	<!-- Книги --> 
+	<department name_eng = "Books" name_rus = "Книги"> 
+		<product id = "23" name_eng = "Remark" name_rus = "Ремарк" /> 
+		<product id = "24" name eng = "Vonnegut" name_rus = "Воннегут" /> 
+		<product id = "25" name eng = "Dostoevsky" name rus = "Достоевский" /> 
+	</department>
+	<!-- Телефоны --> 
+	<department name_eng = "Phones" name_rus = "Телефоны"> 
+		<product id = "26" name eng = "Samsung" name_rus = "Самсунг" /> 
+		<product id = "27" name eng = "Xiaomi" name rus = "Ксяоми" /> 
+		<product id = "28" name_eng = "Oppo" name_rus = "Оппо" /> 
+	</department>
+	<!-- Рыба --> 
+	<department name_eng = "Fish" name_rus = "Рыба"> 
+		<product id = "29" name_eng = "Salmon" name_rus = "Лосось" /> 
+		<product id = "30" name eng = "Herring" name_rus = "Сельдь" /> 
+		<product id = "31" name eng = "Trout" name rus = "Форель" /> 
+		<product id = "32" name_eng = "Pike" name_rus = "Щука" /> 
+	</department>
+	<!-- Фрукты --> 
+	<department name_eng = "Fruits" name_rus = "Фрукты"> 
+		<product id = "33" name_eng = "Peach" name_rus = "Персик" /> 
+		<product id = "34" name eng = "Apple" name_rus = "Яблоко" /> 
+		<product id = "35" name eng = "Melon" name rus = "Дыня" /> 
+		<product id = "36" name eng = "Banana" name rus = "Банан" />
+	</department>
  </store>
