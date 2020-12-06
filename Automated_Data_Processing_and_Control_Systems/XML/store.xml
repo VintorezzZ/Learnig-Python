@@ -25,7 +25,7 @@
 	<department name_eng = "Clothing" name_rus = "Одежда"> 
 		<product id = "12" name_eng = "Shirt" name_rus = "Рубашка" /> 
 		<product id = "13" name_eng = "Pants" name_rus = "Брюки" /> 
-		<product id = "14" name_eng = "Dress" name rus = "Платье" /> 
+		<product id = "14" name_eng = "Dress" name_rus = "Платье" /> 
 		<product id = "15" name_eng = "Hat" name_rus = "Шляпа" /> 
 	</department>
 	<!-- Коктейли --> 
@@ -39,7 +39,7 @@
 	<department name_eng = "Pets" name_rus = "Питомцы"> 
 		<product id = "20" name_eng = "Cats" name_rus = Коты" /> 
 		<product id = "21" name_eng = "Dogs" name_rus = "Собаки" /> 
-		<product id = "22" name_eng = "Parrots" name rus = "Попугаи" /> 
+		<product id = "22" name_eng = "Parrots" name_rus = "Попугаи" /> 
 	</department>
 	<!-- Книги --> 
 	<department name_eng = "Books" name_rus = "Книги"> 
