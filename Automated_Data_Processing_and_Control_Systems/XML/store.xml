@@ -37,7 +37,7 @@
 	</department>
 	<!-- Питомцы --> 
 	<department name_eng = "Pets" name_rus = "Питомцы"> 
-		<product id = "20" name_eng = "Cats" name_rus = Коты" /> 
+		<product id = "20" name_eng = "Cats" name_rus = "Коты" /> 
 		<product id = "21" name_eng = "Dogs" name_rus = "Собаки" /> 
 		<product id = "22" name_eng = "Parrots" name_rus = "Попугаи" /> 
 	</department>
